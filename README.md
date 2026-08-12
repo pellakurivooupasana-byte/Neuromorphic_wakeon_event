@@ -55,10 +55,6 @@ When the required event or pattern is detected, the system generates a **wake-on
 ## Project Files
 
 * neuromorphic_wakeon.v – Main Verilog design
-* spike_encoder.v – Converts significant input changes into spikes/events
-* lif_neuron.v – Neuron-inspired processing logic
-* pattern_matcher.v – Detects the required event/pattern
-* wake_latch.v – Generates and maintains the wake/event indication
 * neuromorphic_wakeon_tb.v – Verilog testbench
 * neuromrophic_wakeon_simulation.png-Simualation waveform 
 
